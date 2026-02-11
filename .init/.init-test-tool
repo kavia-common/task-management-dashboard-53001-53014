@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/task-management-dashboard-53001-53014/task_management_backend"
+}
